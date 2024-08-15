@@ -1,4 +1,5 @@
-# Recipe Search App
+# Recipe Search App 
+Url = https://recipesearchsachin.netlify.app
 
 This is a Next.js-based recipe search application that allows users to browse and search for various recipes.
 
@@ -35,4 +36,8 @@ This is a Next.js-based recipe search application that allows users to browse an
 - This project uses TypeScript for type safety
 - Styling is handled with Tailwind CSS
 - The application is set up with ESLint for code quality
+- 
+![recipe](https://github.com/user-attachments/assets/cb7a5aff-05ab-41a1-977f-4897e51bc589)
+![reci1](https://github.com/user-attachments/assets/528dcce9-28e1-4e27-bba6-050f3663da38)
+
 
